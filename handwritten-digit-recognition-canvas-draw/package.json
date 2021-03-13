@@ -13,7 +13,7 @@
     "jsdom": "^11.11.0",
     "vega-embed": "^3.2.0",
     "vega-lite": "^2.3.1",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "scripts": {
     "watch": "cross-env NODE_ENV=development parcel index.html --no-hmr --open",
